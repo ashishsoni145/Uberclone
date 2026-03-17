@@ -1,0 +1,5 @@
+{
+  "name": "Uber Clone",
+  "description": "A full-stack Uber clone featuring real-time ride booking, AI-powered support, and creative image/video generation.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"]
+}
